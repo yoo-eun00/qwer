@@ -5,4 +5,72 @@
 ---
 Repository 구조:  
 '''
+AIFFEL_quest_rs
+├── Exploration
+│   ├── Ex01
+│   │   ├── 01.ipynb
+│   │   └── README.md
+│   ├── Ex02
+│   │   ├── 02.ipynb
+│   │   └── README.md
+│   ├── Ex03
+│   │   ├── 03.ipynb
+│   │   └── README.md
+│   ├── Ex04
+│   │   ├── 04.ipynb
+│   │   └── README.md
+│   ├── Ex05
+│   │   ├── 05.ipynb
+│   │   └── README.md
+│   ├── Ex06
+│   │   ├── 06.ipynb
+│   │   └── README.md
+│   └── Ex07
+│       ├── 07.ipynb
+│       └── README.md
+├── GoingDeeper
+│   ├── Quest01
+│   │   ├── 01.ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── 02.ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── 03.ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── 04.ipynb
+│   │   └── README.md
+│   ├── Quest05
+│   │   ├── 05.ipynb
+│   │   └── README.md
+│   ├── Quest06
+│   │   ├── 06.ipynb
+│   │   └── README.md
+│   ├── Quest07
+│   │   ├── 07.ipynb
+│   │   └── README.md
+│   ├── Quest08
+│   │   ├── 08.ipynb
+│   │   └── README.md
+│   └── Quest09
+│       ├── 09.ipynb
+│       └── README.md
+├── MainQuest
+│   ├── Quest01
+│   │   ├── 01.ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── 02.ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── 03.ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── 04.ipynb
+│   │   └── README.md
+│   └── Quest05
+│       ├── 05.ipynb
+│       └── README.md
+└── README.md
 '''
